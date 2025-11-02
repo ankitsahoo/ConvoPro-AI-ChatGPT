@@ -4,7 +4,15 @@
 
 - **Streamlit** - User Interface
 - **Ollama** - LLM Provider
-- **MongoDB** - Store Past Conversations
+  **🧠Ollama Models I used in this project**
+
+| NAME           | ID           | SIZE   |
+|----------------|--------------|--------|
+| mistral:7b     | 6577803aa9a0 | 4.4 GB |
+| llama3:latest  | 365c0bd3c000 | 4.7 GB |
+| gemma2:2b      | 8ccf136fdd52 | 1.6 GB |
+
+- **MongoDB Compass** - Store Past Conversations
 - **Docker** - For Deployment
 - **AWS EC2** -  Application Host
 
